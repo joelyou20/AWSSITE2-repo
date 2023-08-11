@@ -1,0 +1,35 @@
+{
+	"firstTime": false,
+	"width": 0,
+	"height": 0,
+	"modDir": "D:\\Downloads\\mods",
+	"imgCacheDir": "D:\\Downloads\\imgCache",
+	"downloadDir": "D:\\Downloads\\downloads",
+	"backupDir": "D:\\Downloads\\backups",
+	"openTo": "FF4PR",
+	"checkAppUpdate": true,
+	"gameDirs": {
+		"ChronoCross": {
+			"dir": ""
+		},
+		"FF1PR": {
+			"dir": "E:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY PR"
+		},
+		"FF2PR": {
+			"dir": "E:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY II PR"
+		},
+		"FF3PR": {
+			"dir": "E:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY III PR"
+		},
+		"FF4PR": {
+			"dir": "E:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY IV PR"
+		},
+		"FF5PR": {
+			"dir": "E:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY V PR"
+		},
+		"FF6PR": {
+			"dir": "E:\\SteamLibrary\\steamapps\\common\\FINAL FANTASY VI PR"
+		}
+	},
+	"deleteDownloadAfterInstall": true
+}
